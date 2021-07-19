@@ -1,1 +1,1 @@
-so this repo is just for practice.
+so this repo is just for practicing git and github.
